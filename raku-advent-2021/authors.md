@@ -30,4 +30,5 @@ Total: 15/24..25
   - note: ^^^^ isn't related to the previous one and can run latter (it probably won't be ready by Dec. 1)
 * vrurg: Coloring your tools(crossed) holidays
 * Altai-man: (something about Comma)
+* polettix: Advent of Code
 <!-- add yours -->
